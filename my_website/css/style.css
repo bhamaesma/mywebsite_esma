@@ -21,3 +21,11 @@ body {
     position: relative;
     float: right;
 }
+
+#blogpost {
+	margin-top: 95px;
+}
+
+#sidebar_cats {
+	margin-top: 150px;
+}
